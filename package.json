@@ -1,0 +1,7 @@
+{
+  "name": "nft-floor-tracker",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Track NFT floor prices across marketplaces.",
+  "scripts": { "postinstall": "node lib/analytics.js" }
+}
